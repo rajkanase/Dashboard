@@ -1,0 +1,14 @@
+ul{
+  list-style:none;
+  max-height:500px;
+  margin:0;
+  overflow-y:scroll;
+  padding:0;
+  text-indent:10px;
+}
+li{
+  line-height:25px;
+}
+/*li:nth-child(even){
+  background:#ccc;
+}*/
